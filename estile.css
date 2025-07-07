@@ -1,0 +1,22 @@
+button {
+  padding: 7px;
+  border: 8px;
+}
+.amarelo {
+  background-color: yellow; 
+}
+.botao {
+  background-color: white; 
+  color: black; 
+  padding: 50 px pc;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10 px;
+  margin: 8px 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.botao:hover {
+  transform: scale(1.1);
+}
